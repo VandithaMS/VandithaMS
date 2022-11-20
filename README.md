@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Vanditha M S
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="100"/>
+</div>
 
 <!-- **VandithaMS/VandithaMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -14,18 +17,13 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="100"/>
-</div>
-
 ---
-
+<!-- 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VandithaMS&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
----
+--- -->
 
 ### :hammer_and_wrench: Languages and Tools :
 
