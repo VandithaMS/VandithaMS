@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vanditha M S
+### Hi 👋, I'm Vanditha M S
 
 <div id="header" >
   <img src="https://media.giphy.com/media/1V3KXtMHJq2YPK7xyl/giphy.gif" width="100"/>
